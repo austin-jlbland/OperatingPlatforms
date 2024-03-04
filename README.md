@@ -1,2 +1,6 @@
-# OperatingPlatforms
-This Repo is for SNHU 230 Operating Platforms course. 
+# The Gaming Room
+This Repo is for SNHU 230 Operating Platforms course. The following README describes the work done for the "The Gaming Room" web based game. 
+
+The Gaming Room wanted a web based game to be developed that could be used by mobile devices and various operating platforms simotaniously and without error. They needed it to support mutliple teams that each consisted of multiple players. Any of these players could be playing from any platform. To cover this, The Gaming Room asked that the game be web based where the game exists in a server and the users computer communicates and rendres the game locally.
+When creating the documentation, I particulary perormed well at considering all potential options for the development of the game. This allowed for solid reccomendations for how the game should be developed. When devoloping the code for this project I found it most helpful to have a clear picture of the customer's requirments. This allowed me to simply cunstruct the architecture needed to write the code. I would like to go back over the evaluation. I feel that there is always a better and smarter way to approach this. 
+The entire design is focused firstly on the user's needs. All the actual code structure and architecture was created to accomadate the customer's needs. Not the other way around. If we are not trying to develop software that the customer desires, then what is the point. We would just be wasting our time. In approaching this software design, I tried to keep things as simple and effective as possible. In the future I will try to be careful not to make the software designs be to complex for their own good. 
